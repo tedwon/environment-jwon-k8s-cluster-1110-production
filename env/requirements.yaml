@@ -7,3 +7,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.82
+- name: jx-slides
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
