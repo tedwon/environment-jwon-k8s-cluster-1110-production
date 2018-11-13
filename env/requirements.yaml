@@ -13,3 +13,6 @@ dependencies:
 - name: jx-slides
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.2
+- name: scala-akka-http-quickstart
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
